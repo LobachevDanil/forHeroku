@@ -1,0 +1,1 @@
+web:    java $JAVA_OPTS -jar libs/telegrambots-4.4.0-jar-with-dependencies.jar
